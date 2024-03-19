@@ -80,16 +80,16 @@ xnor(Y7,a,b);
 endmodule
 
 ```
-
 **Logic symbol & Truthtable**
-![image](https://github.com/priyadharshini210/study-of-basic-gates/assets/148514638/d6c09d2b-3d16-425f-8a09-9e5897e3fee5)
+![image](https://github.com/deesk13/study-of-basic-gates/assets/150927063/1237a7fa-1aee-4196-8974-efd8fb0f4644)
 
-**RTL realization Output** 
-![image](https://github.com/priyadharshini210/study-of-basic-gates/assets/148514638/56893c3b-36ce-41b0-b113-364a0b14e2bf)
+
+**RTL realization Output:**
+![image](https://github.com/deesk13/study-of-basic-gates/assets/150927063/d2afc39c-3ed9-4816-aba0-1ba77593b60f)
+
 
 **RTL**
-![image](https://github.com/priyadharshini210/study-of-basic-gates/assets/148514638/2e515ac6-c4af-45bb-8233-1551ec5fdad6)
+![Screenshot 2024-03-14 094157](https://github.com/deesk13/study-of-basic-gates/assets/150927063/c3f9e67a-31c2-4b8c-97f0-a7d9fd1d34a2)
 
-**Result**
+**Result:**
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
-
