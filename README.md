@@ -1,4 +1,4 @@
-![image](https://github.com/priyadharshini210/study-of-basic-gates/assets/148514638/7bb29ea5-00ea-4da6-8ec2-aad7141095f1)### study-of-basic-gates
+### study-of-basic-gates
 
 **AIM:** 
 
