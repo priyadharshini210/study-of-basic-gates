@@ -81,7 +81,8 @@ endmodule
 
 ```
 **Logic symbol & Truthtable**
-![image](https://github.com/deesk13/study-of-basic-gates/assets/150927063/1237a7fa-1aee-4196-8974-efd8fb0f4644)
+![312893454-283606c5-fc02-4023-9990-3fdf1324473e](https://github.com/priyadharshini210/study-of-basic-gates/assets/148514638/0ed719d3-df52-4c7d-a887-0ea3409babaa)
+
 
 
 **RTL realization Output:**
